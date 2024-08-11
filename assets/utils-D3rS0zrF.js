@@ -1,0 +1,1 @@
+function i(u,n){let e=null;return(...t)=>{e&&clearTimeout(e),e=setTimeout(()=>{u(...t),clearTimeout(e),e=null},n)}}function c(u,n,e,t){let o=Math.round((1-t)*255+t*u),r=Math.round((1-t)*255+t*n),l=Math.round((1-t)*255+t*e);return`${o}, ${r}, ${l}`}export{c as R,i as d};

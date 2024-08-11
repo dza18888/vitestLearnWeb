@@ -1,0 +1,1 @@
+import{M as t}from"./MainContent-EKxFWRd6.js";import{D as o}from"./Debug-CvJt6AHz.js";import{_ as s,a,c,s as n,b as r}from"./index-DltX1y7J.js";import"./utils-D3rS0zrF.js";const _={class:"Debug"},m={__name:"Debug",setup(u){const e=a(o);return(p,d)=>(r(),c("div",_,[n(t,{document:e.value},null,8,["document"])]))}},D=s(m,[["__scopeId","data-v-648eff63"]]);export{D as default};
